@@ -1,3 +1,4 @@
+<img width="1834" alt="Make your README" src="https://github.com/ratulsantra/ratulsantra/assets/63894084/f812923a-7454-4675-be47-02dfb1fe0941">
 <h1 align="center">Hi 👋, I'm Ratul Santra</h1>
 <h3 align="center">A passionate Data Analyst & Frontend Developer from India</h3>
 
