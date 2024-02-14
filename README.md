@@ -45,9 +45,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="power bi" width="40" height="35"/> 
+    <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="power bi" width="45" height="35"/> 
   </a> 
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" alt="excel" width="40" height="40"/> 
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" alt="excel" width="45" height="35"/> 
   </a>
 </p>
